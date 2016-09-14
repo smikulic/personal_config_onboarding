@@ -6,3 +6,6 @@
 4. Install Sublime Text 3
 5. replace Preferences > Settings - User with 'Preferences.sublime-settings'
 6. Install package manager for Sublime Text 3 and a Theme named in Preferences file
+7. Install Sublime Text 3 packages:
+  - File Modify Status
+  - Git Conflict Resolver

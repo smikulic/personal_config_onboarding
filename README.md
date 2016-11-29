@@ -10,5 +10,5 @@
   - File Modify Status
   - Git Conflict Resolver
 8. Update git config
-  - git config --global alias.add-commit '!git add -A && git commit' (usage: git add-commit -m "Random commit message")
-  - git config remote.origin.prune true (usage: autmatically prunes remote branches on git pull/fetch)
+  - `git config --global alias.add-commit '!git add -A && git commit'`(usage: `git add-commit -m "Random commit message"`)
+  - `git config remote.origin.prune true` (usage: autmatically prunes remote branches on git pull/fetch)

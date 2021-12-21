@@ -4,6 +4,7 @@
 2. Install Homebrew
 3. Install Ohmyzsh
    - `brew install zsh`
+   - sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
 4. Add '.zshrc' section into existing file
 5. Install NVM
    - `brew install nvm`

@@ -1,11 +1,12 @@
 # Onboarding instructions
 
 1. Install Iterm2
-2. Install Ohmyzsh
+2. Install Homebrew
+3. Install Ohmyzsh
+   - `brew install zsh`
 4. Add '.zshrc' section into existing file
-5. Install Homebrew
-6. Install Sublime Text 3
-7. Install NVM
-8. Update git config
-  - `git config --global alias.add-commit '!git add -A && git commit'`(usage: `git add-commit -m "Random commit message"`)
-  - `git config remote.origin.prune true` (usage: autmatically prunes remote branches on git pull/fetch)
+5. Install NVM
+   - `brew install nvm`
+6. Update git config
+   - `git config --global alias.add-commit '!git add -A && git commit'`(usage: `git add-commit -m "Random commit message"`)
+   - `git config remote.origin.prune true` (usage: autmatically prunes remote branches on git pull/fetch)
